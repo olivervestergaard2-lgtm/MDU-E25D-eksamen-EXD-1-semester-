@@ -1,7 +1,4 @@
-// Tester at JavaScript forbindelsen virker - vises i browser konsollen
 console.log("Hello World");
-
-/* Oliver og Clara - Forfattere af koden */
 
 // ==================== INIT ====================
 // Venter med at køre JS til HTML'en er loaded
